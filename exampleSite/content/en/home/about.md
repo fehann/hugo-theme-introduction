@@ -1,10 +1,10 @@
 ---
-title: "About"
-image: "profile.jpg"
-weight: 8
----
+title: About
+image: profile.jpg
+weight: "8"
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
+---
+This is **Fernando**, a minimalist website theme made for [Hugo](https://gohugo.io).
 
 ### Features
 
